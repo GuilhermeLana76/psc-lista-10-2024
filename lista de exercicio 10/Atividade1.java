@@ -1,9 +1,13 @@
 import atividadePOO.Pessoa;
 import atividadePOO.Animal;
 import atividadePOO.Carro;
+import atividadePOO.Endereco;
 import atividadePOO.Cartao;
 import atividadePOO.Celular;
 import atividadePOO.Computador;
+import atividadePOO.Relogio;
+import atividadePOO.Televisao;
+import atividadePOO.Livro
 
 public class Atividade1 {
     public static void main(String[] args) {
